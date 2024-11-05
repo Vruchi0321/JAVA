@@ -1,0 +1,38 @@
+                                          Java Architecture
+
+        
+ 1.Java Architecture is a collection of components.
+ 2.It integrates the process of interpretation and compilation.
+ 3.It defines all the processes involved in creating a Java program. 
+ 4.Java Architecture explains each and every step of how a program is compiled and executed.
+   
+
+ * Components of Java Architecture
+    The Java architecture includes the three main components:
+  1. Java Virtual Machine (JVM)
+  2. Java Runtime Environment (JRE)
+  3. Java Development Kit (JDK)
+   
+  * Java Development Kit
+    It is a software development environment used in the development of Java applications and applets. 
+Java Development Kit holds JRE, a compiler, an interpreter or loader, and several development tools in it.
+To learn more about the Java Development Kit.
+
+ * Application of the java
+ 1.Independent language(WORA)Application
+ 2.Standalone application
+ 3.Mobile application
+ 4.web application.
+ 5.Enterprise application
+ 6.Real time system
+  
+
+ *Java Runtime Environment
+ It provides an environment in which Java programs are executed.
+ JRE takes our Java code, integrates it with the required libraries, and then starts the JVM to execute it.
+ To learn more about the Java Runtime Environment
+ 
+
+
+
+    
